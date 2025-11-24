@@ -110,3 +110,9 @@ footer{padding:28px 0;background:transparent;color:var(--muted)}
 @media (prefers-reduced-motion: reduce){
   *{animation:none;transition:none!important}
 }
+
+.portfolio-item {
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
